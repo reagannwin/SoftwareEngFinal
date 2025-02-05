@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254470216545",
+    "project_id": "finalexam-cfcae",
+    "storage_bucket": "finalexam-cfcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254470216545:android:b54bd254e6a57aa7fe4320",
+        "android_client_info": {
+          "package_name": "com.example.goobers_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_bH8OQ0jdJnBfE1AmOMSTt4x82eeYRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
